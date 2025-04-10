@@ -183,21 +183,21 @@ export default function Rodin() {
   const ExternalLinks = () => (
     <div className="flex items-center space-x-6">
       <a
-        href="https://hyper3d.ai"
+        href="https://x.com/3dfiai"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center text-white hover:text-gray-300 transition-colors tracking-normal"
       >
-        <span className="mr-1">Website</span>
+        <span className="mr-1">Twitter</span>
         <ExternalLink className="h-4 w-4" />
       </a>
       <a
-        href="https://developer.hyper3d.ai"
+        href=""
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center text-white hover:text-gray-300 transition-colors tracking-normal"
       >
-        <span className="mr-1">API Docs</span>
+        <span className="mr-1">Github</span>
         <ExternalLink className="h-4 w-4" />
       </a>
     </div>
