@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={geist.className}>
       <head>
-        <title>3D Model Generator</title>
+        <title>3DFI</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         
         {/* 添加 favicon 图标 */}
