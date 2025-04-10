@@ -192,7 +192,7 @@ export default function Rodin() {
         <ExternalLink className="h-4 w-4" />
       </a>
       <a
-        href=""
+        href="https://github.com"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center text-white hover:text-gray-300 transition-colors tracking-normal"
