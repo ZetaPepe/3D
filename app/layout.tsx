@@ -15,10 +15,14 @@ export default function RootLayout({
   return (
     <html lang="en" className={geist.className}>
       <head>
-        <title>3DFI</title>
+        <title>3D Model Generator</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        
         {/* 添加 favicon 图标 */}
-        <link rel="icon" href="/favicon.ico" />  {/* 确保路径正确 */}
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/icon-192x192.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/icon-192x192.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/icon-32x32.png" />
       </head>
       <body className="bg-black text-white">{children}</body>
     </html>
