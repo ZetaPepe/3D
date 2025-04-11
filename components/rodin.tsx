@@ -183,7 +183,7 @@ export default function Rodin() {
   const ExternalLinks = () => (
     <div className="flex items-center space-x-6">
       <a
-        href="https://x.com/3dfiai"
+        href="https://x.com/3dfi_ai"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center text-white hover:text-gray-300 transition-colors tracking-normal"
