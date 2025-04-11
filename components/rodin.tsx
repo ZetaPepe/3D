@@ -214,8 +214,8 @@ export default function Rodin() {
       <div className="absolute inset-0 z-10 pointer-events-none">
         {/* Logo in top left */}
         <div className="absolute top-6 left-6 pointer-events-auto">
-          <h1 className="text-3xl text-white font-normal tracking-normal">3D Model Generator</h1>
-          <p className="text-gray-400 text-sm mt-1 tracking-normal">Powered by Hyper3D Rodin</p>
+          <h1 className="text-3xl text-white font-normal tracking-normal">3DFI AI</h1>
+          <p className="text-gray-400 text-sm mt-1 tracking-normal">Generate your 3D Model</p>
         </div>
 
         {/* Links in top right - desktop only */}
