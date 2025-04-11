@@ -200,6 +200,15 @@ export default function Rodin() {
         <span className="mr-1">Github</span>
         <ExternalLink className="h-4 w-4" />
       </a>
+      <a
+        href="https://telegram.org"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="flex items-center text-white hover:text-gray-300 transition-colors tracking-normal"
+      >
+        <span className="mr-1">Telegram</span>
+        <ExternalLink className="h-4 w-4" />
+      </a>
     </div>
   )
 
