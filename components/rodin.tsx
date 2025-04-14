@@ -224,7 +224,7 @@ export default function Rodin() {
         {/* Logo in top left */}
         <div className="absolute top-6 left-6 pointer-events-auto">
           <h1 className="text-3xl text-white font-normal tracking-normal">3DFI AI</h1>
-          <p className="text-gray-400 text-sm mt-1 tracking-normal">Generate your 3D Model</p>
+          <p className="text-gray-400 text-sm mt-1 tracking-normal">CA：6sQoTHs3vtLArrJtpbWz4UYksE61LnzoWYEKctxvpump</p>
         </div>
 
         {/* Links in top right - desktop only */}
